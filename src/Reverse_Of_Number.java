@@ -7,7 +7,7 @@ public class Reverse_Of_Number {
         System.out.print("Enter Your Number: ");
         int num = input.nextInt();
         int sum = Reverse(num);
-        System.out.println("Your Reverse NUmber Is: " + sum);
+        System.out.println("Your Reverse Number Is: " + sum);
     }
 
     public static int Reverse(int num ){
